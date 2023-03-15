@@ -1,0 +1,15 @@
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.exe
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.deps.json
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.runtimeconfig.json
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.dll
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.pdb
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.csproj.AssemblyReference.cache
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.AssemblyInfoInputs.cache
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.AssemblyInfo.cs
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.dll
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\refint\OrdemDePedido.dll
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.pdb
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.genruntimeconfig.cache
+D:\ProjetosC#\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\ref\OrdemDePedido.dll
